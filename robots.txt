@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nitaoua.github.io/sitemap/sitemap.txt
